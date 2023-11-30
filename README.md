@@ -1,3 +1,3 @@
 # rsschool
 
-https://tok1e1.github.io/rsschool-cv-html/
+https://tok1e1.github.io/rsschool/
